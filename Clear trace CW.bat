@@ -37,7 +37,7 @@ if exist %programdata%\Blizzard Entertainment\ (
   RMDIR /S /Q "%programdata%\Blizzard Entertainment\"
 ) 
 if exist %UserProfile%\documents\Call Of Duty Black Ops Cold War\ (
-  RMDIR /S /Q "%UserProfile%\documents\Call Of Duty Black Ops Cold War\"
+  RMDIR /S /Q "%UserProfile%\documents\Call Of Duty Vanguard\"
 )
 if exist %UserProfile%\documents\Call of Duty Modern Warfare\ (
 RMDIR /S /Q "%UserProfile%\documents\Call of Duty Modern Warfare\"
